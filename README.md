@@ -1,49 +1,58 @@
-# BUILD IT. SAVE IT. BREAK IT. SAVE IT. FIX IT. ∞
+# BUILD IT. SAVE IT. BREAK IT. SAVE IT. FIX IT. SAVE IT. RESPECTFULLY. ∞
 
-### Evidence over ego. Understanding over hostility. Progress over pretending.
+### Evidence over ego. Understanding over hostility. Integrity over appearances. Progress over pretending.
 
-I'm Steven Kyle Hensley, known as **QueBallSharken**.
+I'm **Steven Kyle Hensley**, known as **QueBallSharken**.
 
-I believe meaningful progress comes from building with purpose, challenging assumptions, fixing what evidence demonstrates needs fixing, and continuing to learn.
+I'm a self-taught developer and independent researcher exploring software engineering, cybersecurity, AI governance, verification, and adversarial testing.
+
+My philosophy is straightforward:
+
+**Build deliberately. Preserve the evidence. Challenge assumptions. Preserve the findings. Correct what is demonstrated to be wrong. Preserve the results. Treat people with respect throughout the process.**
+
+Progress is not about being right the first time. It's about being willing to discover where you're wrong, understanding why, and applying what you've learned.
 
 ## My Philosophy
 
-**BUILD IT.** — Create with purpose. Define the goal, make assumptions visible, and establish meaningful criteria for success.
+### BUILD IT.
+Create with purpose.
 
-**BREAK IT.** — Challenge assumptions. Test boundaries, search for counterexamples, and welcome honest criticism.
+Define the objective, document assumptions, establish a baseline, and identify meaningful acceptance criteria.
 
-**FIX IT.** — Investigate failures. Address demonstrated problems, test corrections, and acknowledge what remains uncertain.
+A working implementation is a beginning—not proof that the implementation is correct.
 
-**∞ KEEP LEARNING.** — Carry lessons forward. Improvement is a continuing discipline, not a claim of perfection.
+### SAVE IT.
+Preserve the original.
 
-## How I Work
+Record the baseline, source integrity, configuration, assumptions, and initial evidence.
 
-- **Evidence over ego:** Claims should withstand scrutiny.
-- **Accountability over excuses:** Own mistakes and verify corrections.
-- **Professionalism over hostility:** Challenge the work without demeaning the person.
-- **Learning over pretending:** State limitations honestly and keep improving.
-- **Verification over blind trust:** Test what matters and never claim more than the evidence supports.
+What existed before testing matters just as much as what exists afterward.
 
-## The Human Principle
+### BREAK IT.
+Challenge the work—not the people.
 
-> **Don't fight. Explain.**
+Test boundaries, question assumptions, explore failure conditions, and search for counterexamples.
 
-We can disagree without disrespect. We can identify serious flaws without humiliating people. We can be direct about failures while remaining fair to the people working to fix them.
+Adversarial testing is not an act of hostility. It is a disciplined attempt to discover what ordinary testing may overlook.
 
-**Break assumptions—not people.**
+**There can be no emotional exceptions to the facts.**
 
-## The Full Philosophy
+### SAVE IT.
+Preserve the failure.
 
-Read the canonical document here:
+Record the original test, observed behavior, logs, evidence, conditions, and findings.
 
-[**Build It. Break It. Fix It. ∞ — Full Philosophy**](https://github.com/QueBallSharken/Build-Break-Fix-Repeat)
+Never erase an inconvenient failure simply because a later test passes.
 
-This is a philosophy of continuous improvement, professional integrity, evidence, accountability, and respect. It promises a disciplined process—not infallibility or guaranteed outcomes.
+A failed test can provide more valuable information than a passing test.
 
----
+### FIX IT.
+Follow the evidence.
 
-### BUILD IT. BREAK IT. FIX IT. REPEAT. ∞
+Investigate the cause, propose a correction, verify the implementation, and test again.
 
-*You don't have to know everything. You have to be willing to learn.*
+A proposed fix is not a verified fix.
 
-**Steven Kyle Hensley — [@QueBallSharken](https://github.com/QueBallSharken)**
+A passing test is not proof of universal correctness.
+
+If a solution introduces another failure, acknowledge it and continue
