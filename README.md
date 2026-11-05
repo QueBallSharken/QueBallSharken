@@ -2,7 +2,7 @@
 
 ### Evidence over ego. Understanding over hostility. Integrity over appearances. Progress over pretending.
 
-I'm **Steven Kyle Hensley**, known as **QueBallSharken**.
+I'm **Steven Kyle Hensley**, known as Stevil **QueBallSharken**.
 
 I'm a self-taught developer and independent researcher exploring software engineering, cybersecurity, AI governance, verification, and adversarial testing.
 
